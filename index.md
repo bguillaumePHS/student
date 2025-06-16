@@ -4,7 +4,7 @@ title: I'm Bennett Guillaume
 hide: true
 ---
 
-Hi! My name is Bennett Guillaume
+Hello! My name is Bennett Guillaume. One fun fact about me is I lived on a boat in elementary school.
 
 ### Development Environment
 
